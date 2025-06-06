@@ -2,11 +2,11 @@ import database from "infra/database.js";
 
 async function status(request, response) {
   console.log(database);
-  const result = await database.query("SELECT 1 + 1 as sum;");
-  console.log(result.rows);
+
+  const updatedAt = new Date().toISOString();
 
   response.status(200).json({
-    chave: "valor",
+    updated_at: updatedAt,
   });
 }
 

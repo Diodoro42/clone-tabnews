@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 function Home() {
   return (
     <>
@@ -17,6 +19,10 @@ function Home() {
       <img src="https://37.media.tumblr.com/f2ce68f53d87e05fe42bd23ea8c0f905/tumblr_ms3qgwjcHy1rf3wd1o1_500.gif"></img>
       <br></br>
       <br></br>
+      POSTAGENS:
+      <h3>
+        <Link href="/postagens">"Clique aqui!</Link>
+      </h3>
       PROJETOS:
       <h3>
         <a
