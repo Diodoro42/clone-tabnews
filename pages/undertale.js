@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Postagens() {
   return (
     <div>
-      <Link href="/postagens">
+      <Link href="/postagens/postagens">
         <h3>Voltar</h3>
       </Link>
 

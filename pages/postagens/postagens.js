@@ -8,6 +8,8 @@ export default function Undertale() {
       </Link>
       <h1>Página Sobre minhas opiniões em relações a filmes e video games!</h1>
       <Link href="/undertale">Undertale</Link>
+      <br></br>
+      <Link href="/girls_band_cry">Girls Band Cry</Link>
     </div>
   );
 }

@@ -21,7 +21,7 @@ function Home() {
       <br></br>
       POSTAGENS:
       <h3>
-        <Link href="/postagens">"Clique aqui!</Link>
+        <Link href="/postagens/postagens">"Clique aqui!</Link>
       </h3>
       PROJETOS:
       <h3>
