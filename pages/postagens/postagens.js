@@ -10,6 +10,8 @@ export default function Undertale() {
       <Link href="/undertale">Undertale</Link>
       <br></br>
       <Link href="/girls_band_cry">Girls Band Cry</Link>
+      <br></br>
+      <Link href="/dispatch">Dispatch</Link>
     </div>
   );
 }
