@@ -12,6 +12,8 @@ export default function Undertale() {
       <Link href="/girls_band_cry">Girls Band Cry</Link>
       <br></br>
       <Link href="/dispatch">Dispatch</Link>
+      <br></br>
+      <Link href="/good_night_Punpun">Good Night Pun Pun</Link>
     </div>
   );
 }
