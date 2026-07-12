@@ -14,6 +14,8 @@ export default function Undertale() {
       <Link href="/dispatch">Dispatch</Link>
       <br></br>
       <Link href="/good_night_Punpun">Good Night Pun Pun</Link>
+      <br></br>
+      <Link href="/witch_hat_atelier">Witch hat atelier</Link>
     </div>
   );
 }
